@@ -11,3 +11,6 @@
 ![iPhone_Screenshot_1.png](https://github.com/asksaito/iOS_MahjongNanikiru/blob/master/iPhone_Screenshot_1.png)
 
 ![iPhone_Screenshot_2.png](https://github.com/asksaito/iOS_MahjongNanikiru/blob/master/iPhone_Screenshot_2.png)
+
+### クラス図  
+![iPhone_Nanikiru_ClassDiagram.png](https://github.com/asksaito/iOS_MahjongNanikiru/blob/master/iPhone_Nanikiru_ClassDiagram.png)
